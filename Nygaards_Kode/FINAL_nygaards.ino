@@ -104,5 +104,3 @@ void eraseAllLeds(){
       digitalWrite(i, LOW);
   }
 }
-
-}
